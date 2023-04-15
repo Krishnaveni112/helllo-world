@@ -32,7 +32,6 @@ public class RomantoInteger {
 		// TODO Auto-generated method stub
 		int value=RomanToInteger("MCMXCIV");
 		System.out.println(value);
-		System.out.println("Krishnaveni Sidduri");
 	}
 
 }
